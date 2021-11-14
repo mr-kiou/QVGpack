@@ -1,10 +1,12 @@
 # Q Video game proton pack MK1
-3d printable version of the of the proton pack from Ghostbusters : the video game
+3d printable version of the proton pack from Ghostbusters : the video game
 
-![Image of the proton pack](https://github.com/mr-kiou/q-pack/blob/master/protonpack_screenshoot.jpg)
+![Image of the proton pack](https://github.com/mr-kiou/QVGpack/blob/main/cover_picture.jpg)
 
 Our goal is to make the best easy to use 3D printable "movie" version of the final upgraded proton pack from ghostbusters the video game.
-Like the regular proton pack, everything is included (shell, legris , banjos, clippards, brackets, ...) and compatible with the MK2.1!
+Like the regular proton pack, everything is included! You may need to get files from the regulae repository to finish the pack ( for exemple the cycloton is the same as the MK3 so you need to download the MK3 version)
+
+Repository for the movie pack : https://github.com/mr-kiou/q-pack
 
 ## Why "movie version of the final upgraded proton pack"? : 
 Video game model is lacking detail, some are blocky or exagonal instead of round. 
@@ -15,7 +17,11 @@ If you have any question or need more informations for the assembly, you can go 
 
 https://www.facebook.com/groups/3DprintedGBprops
 
-        
+## Instructions
+Assembly instructions will be soon available here :
+
+https://www.etsy.com/shop/LeBazarDuQ?ref=github
+      
 ## Awesome remix 
 None yet.
 
